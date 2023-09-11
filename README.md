@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif))]
+<img src="[https://github.com/reeveng/reeveng/blob/master/svg.svg](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)"/>
 <h1 align="center">Hi 👋, I'm Mirza Adnan Baig</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirza-adnan-baig&label=Profile%20views&color=0e75b6&style=flat" alt="mirza-adnan-baig" /> </p>
 
