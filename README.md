@@ -3,13 +3,14 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"/>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirza-adnan-baig&label=Profile%20views&color=0e75b6&style=flat" alt="mirza-adnan-baig" /> </p>
 
 - 🔭 I’m currently working on **My Blog website**
 
 - 🌱 I’m currently learning **Next.js & TypeScript**
 
-- 👯 I’m looking to collaborate on **AI based projects**
+- 👯 I’m looking to collaborate on **AI-based projects**
 
 - 🤝 I’m looking for help with **developing REST APIs**
 
