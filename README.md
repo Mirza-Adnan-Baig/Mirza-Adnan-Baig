@@ -19,8 +19,11 @@ Learning </h3>
 <h3 align="left">About This Repository</h3>
 <p>This repository serves as my personal space on GitHub. You're welcome to explore, and open to all comments, feedback, and collaborations. Feel free to check out my interests and the projects I'm working on.</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirza-adnan-baig&show_icons=true&locale=en" alt="mirza-adnan-baig" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirza-adnan-baig&show_icons=true&locale=en&layout=compact" alt="mirza-adnan-baig" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirza-adnan-baig&" alt="mirza-adnan-baig" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirza-adnan-baig&show_icons=true&locale=en&layout=compact" alt="mirza-adnan-baig" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirza-adnan-baig&show_icons=true&locale=en" alt="mirza-adnan-baig" /></p>
+
+
+
