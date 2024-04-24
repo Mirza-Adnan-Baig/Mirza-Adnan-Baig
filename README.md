@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/>
 <h1 align="center">Hi 👋, I'm Mirza Adnan Baig</h1>
-<h3 align="center">A passionate Software Developer </h3>
+<h3 align="center"> Interested in AI | Data Engineering | Data Analytics | Explainable AI | Machine Learning | Generative AI | Deep
+Learning </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"/>
 
 
